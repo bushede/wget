@@ -23,6 +23,8 @@ Xray 全协议	✔ VMess / VLESS Reality / TUIC / Hysteria2（可扩展）
 将脚本上传到 GitHub 后，你可以直接执行：
 
 bash
+
+
 bash <(curl -fsSL https://raw.githubusercontent.com/bushede/ultimate/main/ultimate.sh)
 或者本地执行：
 
