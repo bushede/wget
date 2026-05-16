@@ -4,6 +4,8 @@
 
 
 bash <(curl -fsSL https://raw.githubusercontent.com/bushede/ultimate/main/ultimate.sh)
+
+
 或者本地执行：
 
 bash
