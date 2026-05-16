@@ -10,4 +10,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/bushede/wget/main/wget.sh)
 
 bash
 chmod +x wget.sh
+
+
 ./wget.sh
